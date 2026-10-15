@@ -1,0 +1,6 @@
+{
+  "name": "Ilyes Shop - متجر الدفع عند الاستلام في الجزائر",
+  "description": "متجر إلياس شوب الجزائري: تسوق أفضل المنتجات مع خدمة الدفع عند الاستلام والتوصيل السريع لـ 58 ولاية جزائرية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
